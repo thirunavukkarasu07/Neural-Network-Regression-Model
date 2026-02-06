@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+
 
 ![image](https://github.com/user-attachments/assets/ce40c067-ea85-464d-a4ba-e419d3f7831f)
 
@@ -89,7 +89,7 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+
 
 <img width="360" height="432" alt="image" src="https://github.com/user-attachments/assets/72562246-1d30-4c5b-a00e-f3ac27e6035f" />
 
@@ -98,17 +98,18 @@ Include screenshot of the dataset
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
 
 <img width="688" height="475" alt="image" src="https://github.com/user-attachments/assets/54b60a38-93a2-4483-a067-11c3757e3119" />
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+
+
+<img width="818" height="174" alt="image" src="https://github.com/user-attachments/assets/ffab6408-8d96-43c6-bb10-37e430312b93" />
 
 ## RESULT
 
-Include your result here
+The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
 
-<img width="818" height="174" alt="image" src="https://github.com/user-attachments/assets/ffab6408-8d96-43c6-bb10-37e430312b93" />
+
