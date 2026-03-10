@@ -6,13 +6,12 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+The objective of this project is to develop a neural network regression model using a custom dataset containing one numeric input and one numeric output. The dataset is created in Google Sheets, and the model is trained to learn the relationship between the input and output values. During training, the model minimizes prediction error, and a training loss vs iteration plot is generated to visualize how the model improves over time.
 
 ## Neural Network Model
 
+<img width="730" height="375" alt="image" src="https://github.com/user-attachments/assets/9b92a9ee-8282-475e-b394-a155528c25ec" />
 
-
-![image](https://github.com/user-attachments/assets/ce40c067-ea85-464d-a4ba-e419d3f7831f)
 
 ## DESIGN STEPS
 
@@ -91,7 +90,8 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 
 
-<img width="360" height="432" alt="image" src="https://github.com/user-attachments/assets/72562246-1d30-4c5b-a00e-f3ac27e6035f" />
+<img width="347" height="950" alt="image" src="https://github.com/user-attachments/assets/04b8a9cd-d7c3-4a7a-9a0b-5936c857f884" />
+
 
 
 ## OUTPUT
